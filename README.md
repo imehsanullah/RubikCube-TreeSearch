@@ -13,17 +13,17 @@ This repo is a small Rubik’s Cube solver demo: you scramble a 3×3 cube, then 
 
 Screenshots are in `pics/`:
 
-**Initial state**
+**Initial state**<br>
 ![Initial state](pics/initial_state.png)
 
-**After U**
+**After U**<br>
 ![U move](pics/u-move.png)
 
-**After L**
+**After L**<br>
 ![L move](pics/l-move.png)
 
-**After R**
+**After R**<br>
 ![R move](pics/r-move.png)
 
-**Solved**
+**Solved**<br>
 ![Solved state](pics/solvedstate.png)
