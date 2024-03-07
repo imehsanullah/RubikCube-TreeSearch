@@ -19,4 +19,4 @@ conda run --no-capture-output -n rubikcube python RubikCubeSolver-Python_Open3d.
 
 ![Open3D scramble and solve demo](vids/3D_Scramble_and_Solve.gif)
 
-Video file: [vids/3D_Scramble_and_Solve.mp4](vids/3D_Scramble_and_Solve.mp4)
+
